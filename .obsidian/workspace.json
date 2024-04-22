@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer NETWORK.md",
+                "file": "OOP.py/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer NETWORK.md",
+                "file": "OOP.py/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer NETWORK.md",
+                "file": "OOP.py/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer NETWORK.md"
+                "file": "OOP.py/Untitled.md"
               }
             }
           },
@@ -170,10 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb311296a5ced2bf",
+  "active": "294a378b9c3c197c",
   "lastOpenFiles": [
-    "DEVOPS/PYTHON KNAPSACKS/Dictionary.md",
     "Computer NETWORK.md",
+    "OOP.py/Untitled.md",
+    "OOP.py",
+    "DEVOPS/PYTHON KNAPSACKS/Dictionary.md",
     "remote-obs",
     "DEVOPS",
     "Untitled.canvas",
